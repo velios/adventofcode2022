@@ -1,3 +1,4 @@
 .cpcache/
 .lsp/
 resources/
+.clj-kondo/
