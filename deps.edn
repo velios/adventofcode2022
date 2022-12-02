@@ -1,3 +1,4 @@
 {:deps 
  {org.clojure/clojure {:mvn/version "1.11.1"}
-  nrepl/nrepl {:mvn/version "0.8.3"}}}
+  nrepl/nrepl {:mvn/version "0.8.3"}
+  medley/medley {:mvn/version "1.4.0"}}}
