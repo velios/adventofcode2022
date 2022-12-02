@@ -29,6 +29,9 @@
     (sort-by-asc)
     (first))
   
+  (-> (slurp "resources/day1.in")
+    (string/split #"\R\R"))
+  
   ;; part 2
   (->> (slurp "resources/day1.in")
     (parse-input)
